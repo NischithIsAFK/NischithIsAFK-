@@ -1,7 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=NischithIsAFK&icon=0&color=3)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🌱 I’m currently learning AWS Serverless<br>🔭 I’m currently working on AWS<br>👯 I’m looking to collaborate on backend projects<br>📧 Reach out to me at nischith.212@gmail.com<br>💬 Ask me about AWS, Spring Boot, Backend technologies<br>⚡ Fun fact - "Deploying my code.........." 
 
-[![](https://visitcount.itsvg.in/api?id=NischithIsAFK&icon=0&color=3)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nischith-girish) 
 
